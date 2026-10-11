@@ -1,0 +1,11 @@
+{
+  "desktopBaseVersion": "1.6.9",
+  "webPrototypeVersion": "0.3",
+  "mode": "static",
+  "wikiUpdates": "disabled-until-backend-proxy",
+  "pwa": true,
+  "anonymousUsageStats": "cloudflare-worker-d1-optional",
+  "statsPrivacy": "daily-pseudonymous-id-only",
+  "champions": "320-points-levels-50-60-75-76",
+  "altars": "111-points-solo-group-levels-50-60-65"
+}
